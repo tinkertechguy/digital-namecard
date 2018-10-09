@@ -7,7 +7,7 @@ ORG:Gadget Genie;
 TITLE:Master Tech\Partner 
 EMAIL;type=INTERNET;type=WORK;type=pref:joe@gadgetgenie.com
 TEL;type=WORK;type=VOICE:206-249-3442
-item1.ADR;type=WORK;type=pref:;;2016 S 320th st suite O, 09-01;;;98003;Federal Way 
+item1.ADR;type=WORK;type=pref:;;2016 S 320th st suite O, ;;;98003;Federal Way 
 item1.X-ABADR:sg
 item2.URL;type=pref:gadgetgenie.com
 item2.X-ABLabel:_$!<HomePage>!$_
